@@ -1,0 +1,30 @@
+# Random Notes
+--------------
+I really want to learn the markup for the editor. I also want to relearn how to do some comand line things. 
+I take care of a lot of these features with dropbox
+
+COMMAND for new project: git init project1
+.git folder is where everything is saved to
+COMMAND for readdressing your config file: git remote add origin https://github.com/robink096/project1
+
+3 things needed to start:
+* Command Line - git.sem.com
+* GUI - mac.github.com / windows.github.com
+* GitHub account
+
+Settings in the command line can be changed on 3 levels:
+* local - closest to user takes most precedient
+* global - a layer further than local
+* system - the outer layer overwritten by both above
+
+Initilizing project from command line
+COMMAND - git init
+
+making a commit:
+C git status // checks to see if there is something in the staging area, ready to be committed
+C git add // adds a file to the staging area 
+C git status // check to see if the file made it to the area
+C git commit // sends the new version to the repo
+C git commit -m "This is for the message" // add a msg for the edit, without it the editor forces you to 
+
+# Vid 4 - Diff
